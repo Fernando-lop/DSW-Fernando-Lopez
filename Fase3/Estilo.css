@@ -13,10 +13,21 @@
     list-style: none;
     box-sizing: border-box;
     border: none;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+p{
+    color: #000000;
+    font-size: 120%;
+    line-height: 155%;
+    padding: 3%;
+    text-indent: 2%;
+
 }
 
 nav{
@@ -91,7 +102,25 @@ nav ul{
 #ckbox{
     display: none;
 }
+.perfil{
+    float: left;
+    width: 30%;
+    margin: 0 auto;
+    max-width: 30%;
+    height: auto;
+    padding: 5%;
+}
 
+.personal-info{
+    float: left;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 30%;
+    height: auto;
+    padding: 5%;
+    text-indent: 0%;
+
+}
 /*media query*/
 
 @media (max-width:1039px) {
@@ -139,6 +168,18 @@ h2{
     text-align: center;
     text-indent: 3%;
 }
+
+h4{
+    margin-top: 5rem;
+}
+
+img{
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
 p{
     text-indent: 3%;
     padding: 1%;
@@ -162,3 +203,12 @@ p{
     text-align: justify;
     text-indent: 3%;
 }
+
+#TR2{
+    margin-top: 7rem;
+    text-align: justify;
+    text-align: center;
+    padding: 1%;
+    
+}
+
