@@ -1,6 +1,6 @@
 :root{    
     --primary:#0077e6;
-    --secundary:#46659b;
+    --secundary:#35495e;
     --background:#35495e;
     --black-text:rgb(61, 61, 61);
     --white-text:#ffffff;
@@ -210,5 +210,19 @@ p{
     text-align: center;
     padding: 1%;
     
+}
+
+#V1{
+    float: center;
+    padding: 1%;
+    text-align: justify;
+    text-align: center;
+}
+
+#V2{
+    float: center;
+    padding: 1%;
+    text-align: justify;
+    text-align: center;
 }
 
