@@ -226,3 +226,29 @@ p{
     text-align: center;
 }
 
+#Unad{
+    float: right;
+    padding-left: 15px;
+    width: 400px;
+    box-sizing: border-box;
+}
+
+.Contenido_Unad{
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius: 5px;
+
+    background-color: #0077e6;
+    color: white;
+    
+
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    text-align: center;
+
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
